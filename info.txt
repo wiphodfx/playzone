@@ -170,3 +170,11 @@ Governance Structure
 Shareholders’ Meeting: Shareholders meetings are duly convened and held in line with the Bank’s Articles of Association and existing statutory and regulatory regimes in an open manner, for the purpose of deliberating on issues affecting the Bank’s strategic direction.
 
 This occurs through a fair and transparent process and also serves as a medium for fostering interaction between the Board, Management and Shareholders. Attendance at the Annual General Meeting is open to shareholders or their proxies while proceedings at such meetings are usually monitored by members of the press, representatives of the Nigerian Stock Exchange, Central Bank of Nigeria and Securities and Exchange Commission. The Board ensures that shareholders are provided with adequate notice of the Meeting. An Extraordinary General Meeting may also be convened at the request of the Board or Shareholders holding not less than 10% of the Bank’s paid- up capital.
+
+
+https://unpkg.com/ionicons@5.4.0/dist/ionicons.js
+
+  We offer industry specific banking services with excellence…
+With experts who have relevant industry experience, you are rest assured that navigating the financial complexity of your industry will be easy and convenient. Whatever your needs, we have a professional for you.
+
+Easy access, easy service and extremely personal, that is how our personal banking services are tailored for you. It’s also available when you need it. Discover our effective personal offerings that work.

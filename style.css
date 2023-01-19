@@ -76,5 +76,28 @@ nav .logo-img{
 
 /* homepage content */
 .main{
-    
+    background: linear-gradient(to right, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+    width: 90%;
+    height: 350px;
+    border-radius: 15px;
+    margin: 50px auto;
+    padding: 40px 40px;
+}
+
+.textPanel{
+    width: 600px;
+    height: 100px;
+}
+
+.textPanel h1{
+    font-size: 30px;
+    line-height: 35px;
+    color: var(--text-color);
+    font-weight: 400;
+}
+
+.textPanel h1 span {
+    font-size: 45px;
+    color: var(--bg-btn-color);
+    font-weight: 600;
 }
