@@ -82,6 +82,9 @@ nav .logo-img{
     border-radius: 15px;
     margin: 50px auto;
     padding: 40px 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .textPanel{
