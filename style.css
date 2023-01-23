@@ -90,6 +90,7 @@ nav .logo-img{
 .textPanel{
     width: 600px;
     height: 100px;
+    position: relative;
 }
 
 .textPanel h1{
@@ -103,4 +104,18 @@ nav .logo-img{
     font-size: 45px;
     color: var(--bg-btn-color);
     font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.gallery1{
+    background:linear-gradient(to top, rgba(0,0,0,0.5)80%, rgba(0,0,0,0.5)70%), url(images/financial-institutions-banner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 330px;
+    position: absolute;
+    top: 18%;
+    right: 6%;
+    border-radius: 12px;
 }
